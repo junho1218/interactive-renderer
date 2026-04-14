@@ -1,6 +1,7 @@
 # glskeleton
 
 This is template OpenGL cmake project for project for Computer Graphics course in GIST.
+
 Due to the scope of the lecture, the OpenGL version is intentionally set to *3.1*.
 
 ![Result](doc/result1.png)
